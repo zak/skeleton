@@ -1,0 +1,261 @@
+>> Writing PID to tmp/pids/thin.5032.pid
+>> Using rails adapter
+>> Thin web server (v0.8.2 codename Double Margarita)
+>> Threaded mode OFF
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:5032, CTRL+C to stop
+>> Exiting!
+>> Writing PID to tmp/pids/thin.5032.pid
+>> Using rails adapter
+>> Thin web server (v0.8.2 codename Double Margarita)
+>> Threaded mode OFF
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:5032, CTRL+C to stop
+>> Exiting!
+>> Writing PID to tmp/pids/thin.5032.pid
+>> Using rails adapter
+>> Thin web server (v0.8.2 codename Double Margarita)
+>> Threaded mode OFF
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:5032, CTRL+C to stop
+>> Exiting!
+>> Writing PID to tmp/pids/thin.5032.pid
+>> Using rails adapter
+>> Thin web server (v0.8.2 codename Double Margarita)
+>> Threaded mode OFF
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:5032, CTRL+C to stop
+>> Exiting!
+>> Writing PID to tmp/pids/thin.5032.pid
+>> Using rails adapter
+>> Thin web server (v0.8.2 codename Double Margarita)
+>> Threaded mode OFF
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:5032, CTRL+C to stop
+>> Exiting!
+>> Writing PID to tmp/pids/thin.5032.pid
+>> Using rails adapter
+>> Thin web server (v0.8.2 codename Double Margarita)
+>> Threaded mode OFF
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:5032, CTRL+C to stop
+>> Exiting!
+>> Writing PID to tmp/pids/thin.5032.pid
+>> Using rails adapter
+>> Thin web server (v0.8.2 codename Double Margarita)
+>> Threaded mode OFF
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:5032, CTRL+C to stop
+>> Exiting!
+>> Writing PID to tmp/pids/thin.5032.pid
+>> Using rails adapter
+>> Thin web server (v0.8.2 codename Double Margarita)
+>> Threaded mode OFF
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:5032, CTRL+C to stop
+>> Exiting!
+>> Writing PID to tmp/pids/thin.5032.pid
+>> Using rails adapter
+>> Thin web server (v0.8.2 codename Double Margarita)
+>> Threaded mode OFF
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:5032, CTRL+C to stop
+>> Exiting!
+>> Writing PID to tmp/pids/thin.5032.pid
+>> Using rails adapter
+>> Thin web server (v0.8.2 codename Double Margarita)
+>> Threaded mode OFF
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:5032, CTRL+C to stop
+>> Exiting!
+>> Writing PID to tmp/pids/thin.5032.pid
+>> Using rails adapter
+>> Thin web server (v0.8.2 codename Double Margarita)
+>> Threaded mode OFF
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:5032, CTRL+C to stop
+>> Exiting!
+>> Writing PID to tmp/pids/thin.5032.pid
+>> Using rails adapter
+>> Thin web server (v0.8.2 codename Double Margarita)
+>> Threaded mode OFF
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:5032, CTRL+C to stop
+>> Exiting!
+>> Writing PID to tmp/pids/thin.5032.pid
+>> Using rails adapter
+>> Thin web server (v0.8.2 codename Double Margarita)
+>> Threaded mode OFF
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:5032, CTRL+C to stop
+>> Exiting!
+>> Writing PID to tmp/pids/thin.5032.pid
+>> Using rails adapter
+>> Exiting!
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:115:in `qualified_const_defined?': "Plugins::Restful-authentication::Lib" is not a valid constant name! (NameError)
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:338:in `new_constants_in'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:330:in `collect'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:330:in `new_constants_in'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:214:in `load_file'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:95:in `require_or_load'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:260:in `load_missing_constant'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:467:in `const_missing'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:479:in `const_missing'
+	 ... 46 levels...
+	from /usr/lib/ruby/gems/1.8/gems/thin-0.8.2/lib/thin/runner.rb:136:in `run!'
+	from /usr/lib/ruby/gems/1.8/gems/thin-0.8.2/bin/thin:6
+	from /usr/bin/thin:19:in `load'
+	from /usr/bin/thin:19
+>> Writing PID to tmp/pids/thin.5032.pid
+>> Using rails adapter
+>> Exiting!
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:115:in `qualified_const_defined?': "Plugins::Restful-authentication::Lib" is not a valid constant name! (NameError)
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:338:in `new_constants_in'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:330:in `collect'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:330:in `new_constants_in'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:214:in `load_file'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:95:in `require_or_load'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:260:in `load_missing_constant'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:467:in `const_missing'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:479:in `const_missing'
+	 ... 46 levels...
+	from /usr/lib/ruby/gems/1.8/gems/thin-0.8.2/lib/thin/runner.rb:136:in `run!'
+	from /usr/lib/ruby/gems/1.8/gems/thin-0.8.2/bin/thin:6
+	from /usr/bin/thin:19:in `load'
+	from /usr/bin/thin:19
+>> Writing PID to tmp/pids/thin.5032.pid
+>> Using rails adapter
+>> Exiting!
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:115:in `qualified_const_defined?': "Plugins::Restful-authentication::Lib" is not a valid constant name! (NameError)
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:338:in `new_constants_in'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:330:in `collect'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:330:in `new_constants_in'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:214:in `load_file'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:95:in `require_or_load'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:260:in `load_missing_constant'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:467:in `const_missing'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:479:in `const_missing'
+	 ... 46 levels...
+	from /usr/lib/ruby/gems/1.8/gems/thin-0.8.2/lib/thin/runner.rb:136:in `run!'
+	from /usr/lib/ruby/gems/1.8/gems/thin-0.8.2/bin/thin:6
+	from /usr/bin/thin:19:in `load'
+	from /usr/bin/thin:19
+>> Writing PID to tmp/pids/thin.5032.pid
+>> Using rails adapter
+>> Exiting!
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:115:in `qualified_const_defined?': "Plugins::Restful-authentication::Lib" is not a valid constant name! (NameError)
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:338:in `new_constants_in'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:330:in `collect'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:330:in `new_constants_in'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:214:in `load_file'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:95:in `require_or_load'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:260:in `load_missing_constant'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:467:in `const_missing'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:479:in `const_missing'
+	 ... 46 levels...
+	from /usr/lib/ruby/gems/1.8/gems/thin-0.8.2/lib/thin/runner.rb:136:in `run!'
+	from /usr/lib/ruby/gems/1.8/gems/thin-0.8.2/bin/thin:6
+	from /usr/bin/thin:19:in `load'
+	from /usr/bin/thin:19
+>> Writing PID to tmp/pids/thin.5032.pid
+>> Using rails adapter
+>> Exiting!
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:115:in `qualified_const_defined?': "Plugins::Restful-authentication::Lib" is not a valid constant name! (NameError)
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:338:in `new_constants_in'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:330:in `collect'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:330:in `new_constants_in'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:214:in `load_file'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:95:in `require_or_load'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:260:in `load_missing_constant'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:467:in `const_missing'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:479:in `const_missing'
+	 ... 46 levels...
+	from /usr/lib/ruby/gems/1.8/gems/thin-0.8.2/lib/thin/runner.rb:136:in `run!'
+	from /usr/lib/ruby/gems/1.8/gems/thin-0.8.2/bin/thin:6
+	from /usr/bin/thin:19:in `load'
+	from /usr/bin/thin:19
+>> Writing PID to tmp/pids/thin.5032.pid
+>> Using rails adapter
+>> Exiting!
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:115:in `qualified_const_defined?': "Plugins::Restful-authentication::Lib" is not a valid constant name! (NameError)
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:338:in `new_constants_in'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:330:in `collect'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:330:in `new_constants_in'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:214:in `load_file'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:95:in `require_or_load'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:260:in `load_missing_constant'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:467:in `const_missing'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:479:in `const_missing'
+	 ... 46 levels...
+	from /usr/lib/ruby/gems/1.8/gems/thin-0.8.2/lib/thin/runner.rb:136:in `run!'
+	from /usr/lib/ruby/gems/1.8/gems/thin-0.8.2/bin/thin:6
+	from /usr/bin/thin:19:in `load'
+	from /usr/bin/thin:19
+>> Writing PID to tmp/pids/thin.5032.pid
+>> Using rails adapter
+>> Exiting!
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:115:in `qualified_const_defined?': "Plugins::Restful-authentication::Lib" is not a valid constant name! (NameError)
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:338:in `new_constants_in'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:330:in `collect'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:330:in `new_constants_in'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:214:in `load_file'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:95:in `require_or_load'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:260:in `load_missing_constant'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:467:in `const_missing'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:479:in `const_missing'
+	 ... 46 levels...
+	from /usr/lib/ruby/gems/1.8/gems/thin-0.8.2/lib/thin/runner.rb:136:in `run!'
+	from /usr/lib/ruby/gems/1.8/gems/thin-0.8.2/bin/thin:6
+	from /usr/bin/thin:19:in `load'
+	from /usr/bin/thin:19
+>> Writing PID to tmp/pids/thin.5032.pid
+>> Using rails adapter
+>> Exiting!
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:115:in `qualified_const_defined?': "Plugins::Restful-authentication::Lib" is not a valid constant name! (NameError)
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:338:in `new_constants_in'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:330:in `collect'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:330:in `new_constants_in'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:214:in `load_file'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:95:in `require_or_load'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:260:in `load_missing_constant'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:467:in `const_missing'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:479:in `const_missing'
+	 ... 46 levels...
+	from /usr/lib/ruby/gems/1.8/gems/thin-0.8.2/lib/thin/runner.rb:136:in `run!'
+	from /usr/lib/ruby/gems/1.8/gems/thin-0.8.2/bin/thin:6
+	from /usr/bin/thin:19:in `load'
+	from /usr/bin/thin:19
+>> Writing PID to tmp/pids/thin.5032.pid
+>> Using rails adapter
+>> Exiting!
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:115:in `qualified_const_defined?': "Plugins::Restful-authentication::Lib" is not a valid constant name! (NameError)
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:338:in `new_constants_in'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:330:in `collect'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:330:in `new_constants_in'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:214:in `load_file'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:95:in `require_or_load'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:260:in `load_missing_constant'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:467:in `const_missing'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:479:in `const_missing'
+	 ... 46 levels...
+	from /usr/lib/ruby/gems/1.8/gems/thin-0.8.2/lib/thin/runner.rb:136:in `run!'
+	from /usr/lib/ruby/gems/1.8/gems/thin-0.8.2/bin/thin:6
+	from /usr/bin/thin:19:in `load'
+	from /usr/bin/thin:19
+>> Writing PID to tmp/pids/thin.5032.pid
+>> Using rails adapter
+>> Exiting!
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:115:in `qualified_const_defined?': "Plugins::Restful-authentication::Lib" is not a valid constant name! (NameError)
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:338:in `new_constants_in'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:330:in `collect'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:330:in `new_constants_in'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:214:in `load_file'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:95:in `require_or_load'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:260:in `load_missing_constant'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:467:in `const_missing'
+	from /usr/lib/ruby/gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:479:in `const_missing'
+	 ... 46 levels...
+	from /usr/lib/ruby/gems/1.8/gems/thin-0.8.2/lib/thin/runner.rb:136:in `run!'
+	from /usr/lib/ruby/gems/1.8/gems/thin-0.8.2/bin/thin:6
+	from /usr/bin/thin:19:in `load'
+	from /usr/bin/thin:19

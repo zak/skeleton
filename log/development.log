@@ -1,0 +1,14 @@
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000076)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000061)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000121)[0m   [0;1mCREATE DATABASE `dor_development` DEFAULT CHARACTER SET `utf8` COLLATE `utf8_general_ci`[0m
+
+
+Processing InfoController#properties (for 127.0.0.1 at 2008-09-02 23:07:38) [GET]
+  Session ID: a252b31f585c1a9f3a49c6d6a1e9f7bd
+  Parameters: {"action"=>"properties", "controller"=>"rails/info"}
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000074)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000058)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mMysql::Error: #42S02Table 'dor_development.schema_migrations' doesn't exist: SELECT version FROM schema_migrations[0m
+Completed in 0.04151 (24 reqs/sec) | Rendering: 0.00220 (5%) | DB: 0.00013 (0%) | 200 OK [http://dor.lo/rails/info/properties]
