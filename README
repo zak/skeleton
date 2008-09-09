@@ -1,2 +1,10 @@
 skeleton
 Решил собрать основу любого приложения на рельсах, что бы в дальнейши не тратить время на повторную работу.
+
+sudo gem sources -a http://gems.github.com
+sudo gem install rubyist-aasm
+
+./script/plugin install git://github.com/technoweenie/restful-authentication.git
+./script/generate authenticated user sessions --include-activation --stateful --aasm
+./script/plugin install git://github.com/thoughtbot/paperclip.git
+./script/plugin install git://github.com/mislav/will_paginate.git
